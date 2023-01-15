@@ -224,42 +224,6 @@ function MultiPlayerGame() {
                         </div>
                     ]);
                 })}
-                {/*                 
-                <div className=' flex items-center justify-center data-[isfull="false"]:cursor-pointer' data-isfull={isGridFull(0)} onClick={() => { if (!isGridFull(0)) { handleTurn(); handleGrid(0, turn) } }}>
-                    {drawGridElement(0)}
-                </div>
-
-                <div className=' flex items-center justify-center data-[isfull="false"]:cursor-pointer' data-isfull={isGridFull(1)} onClick={() => { if (!isGridFull(1)) { handleTurn(); handleGrid(1, turn) } }}>
-                    {drawGridElement(1)}
-                </div>
-
-                <div className=' flex items-center justify-center data-[isfull="false"]:cursor-pointer' data-isfull={isGridFull(2)} onClick={() => { if (!isGridFull(2)) { handleTurn(); handleGrid(2, turn) } }}>
-                    {drawGridElement(2)}
-                </div>
-
-                <div className=' flex items-center justify-center data-[isfull="false"]:cursor-pointer' data-isfull={isGridFull(3)} onClick={() => { if (!isGridFull(3)) { handleTurn(); handleGrid(3, turn) } }}>
-                    {drawGridElement(3)}
-                </div>
-
-                <div className=' flex items-center justify-center data-[isfull="false"]:cursor-pointer' data-isfull={isGridFull(4)} onClick={() => { if (!isGridFull(4)) { handleTurn(); handleGrid(4, turn) } }}>
-                    {drawGridElement(4)}
-                </div>
-
-                <div className=' flex items-center justify-center data-[isfull="false"]:cursor-pointer' data-isfull={isGridFull(5)} onClick={() => { if (!isGridFull(5)) { handleTurn(); handleGrid(5, turn) } }}>
-                    {drawGridElement(5)}
-                </div>
-
-                <div className=' flex items-center justify-center data-[isfull="false"]:cursor-pointer' data-isfull={isGridFull(6)} onClick={() => { if (!isGridFull(6)) { handleTurn(); handleGrid(6, turn) } }}>
-                    {drawGridElement(6)}
-                </div>
-
-                <div className=' flex items-center justify-center data-[isfull="false"]:cursor-pointer' data-isfull={isGridFull(7)} onClick={() => { if (!isGridFull(7)) { handleTurn(); handleGrid(7, turn) } }}>
-                    {drawGridElement(7)}
-                </div>
-
-                <div className=' flex items-center justify-center data-[isfull="false"]:cursor-pointer' data-isfull={isGridFull(8)} onClick={() => { if (!isGridFull(8)) { handleTurn(); handleGrid(8, turn) } }}>
-                    {drawGridElement(8)}
-                </div> */}
 
             </div>
 
