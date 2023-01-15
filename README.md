@@ -7,4 +7,4 @@ https://www.figma.com/community/file/1118034705042151458
 
 ## Deployment Link
 
-https://tictactoe-46hbocqr1-isickos.vercel.app/
+https://tictactoe-f31xt9xw6-isickos.vercel.app/
